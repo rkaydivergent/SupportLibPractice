@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SupportLibPractice</string>
+    <string name="button_label">Change Color</string>
+
+    <string name="hello_text_string">Hello World!</string>
+
+</resources>
